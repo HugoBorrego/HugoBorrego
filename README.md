@@ -25,4 +25,4 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
 </div>
 
 ### Soft Skills
-Liderança | Produtividade | Adaptabilidade | Iniciativa | Criatividade | Trabalho em equipe
+Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Iniciativa | Criatividade | Trabalho em equipe
