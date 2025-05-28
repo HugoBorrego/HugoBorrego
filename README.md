@@ -24,5 +24,5 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
 </div>
 
-### Soft Skills
+## Soft Skills
 Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Iniciativa | Criatividade | Trabalho em equipe
