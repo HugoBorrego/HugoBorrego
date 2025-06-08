@@ -16,7 +16,7 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,figma" />
 </div>
 
 ### Dados
