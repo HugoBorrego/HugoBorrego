@@ -1,12 +1,14 @@
-# Olá, meu nome é Hugo Borrego
-## Atualmente estou no 3° Semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taubaté
+## Olá, meu nome é Hugo Borrego
+### Atualmente estou no 3° Semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taubaté
 
 Tenho interesse em Desenvolvimento de Software, Ciência de Dados e IA. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado e disposto 
 a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoBorrego&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HugoBorrego&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoBorrego&theme=dark)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HugoBorrego&theme=dark&border_radius=10&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoBorrego&show_icons=true&theme=dark&border_radius=10&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoBorrego&layout=compact&theme=dark&border_radius=10&langs_count=8" alt="Top Languages" />
+</div>
 
 ## Hard Skills
 ### Backend
