@@ -7,6 +7,8 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HugoBorrego&theme=dark&border_radius=10&count_private=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=HugoBorrego&show_icons=true&theme=dark&border_radius=10&count_private=true" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoBorrego&layout=compact&theme=dark&border_radius=10&langs_count=8" alt="Top Languages" />
 </div>
 
