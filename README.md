@@ -15,12 +15,13 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
 ## Hard Skills
 ### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=py,java,spring,cs,dotnet,javascript,nodejs,git" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,cs,javascript,c,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" /><br>
 </div>
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </div>
 
 ### Dados
@@ -28,5 +29,10 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
 </div>
 
+### Ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" /><br>
+</div>
+
 ## Soft Skills
-Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Iniciativa | Criatividade | Trabalho em equipe
+Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Criatividade | Trabalho em equipe
