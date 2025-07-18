@@ -1,5 +1,5 @@
 ## Olá, meu nome é Hugo Borrego
-### Atualmente estou no 3° Semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taubaté
+### Atualmente estou no 4° Semestre de Análise e Desenvolvimento de Sistemas na FATEC - Taubaté
 
 Tenho interesse em Desenvolvimento de Software, Ciência de Dados e IA. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado e disposto 
 a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.
