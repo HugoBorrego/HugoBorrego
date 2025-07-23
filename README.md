@@ -1,4 +1,10 @@
-## Olá, meu nome é Hugo Borrego
+<h1 align="center">Olá, meu nome é Hugo</h1>
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
+
+
 ### Atualmente estou no 4° Semestre de Análise e Desenvolvimento de Sistemas na FATEC - Taubaté
 
 Tenho interesse em Desenvolvimento de Software, Ciência de Dados e IA. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado e disposto 
