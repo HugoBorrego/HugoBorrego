@@ -5,10 +5,13 @@
 </p>
 
 
-### Atualmente estou no 4° Semestre de Análise e Desenvolvimento de Sistemas na FATEC - Taubaté
+<div align="center">
+ <h3>Atualmente estou no 4° Semestre de Análise e Desenvolvimento de Sistemas na FATEC - Taubaté</h3>
+ <p>Tenho interesse em Desenvolvimento de Software, Ciência de Dados e IA. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado e disposto 
+a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.</p>
+</div>
 
-Tenho interesse em Desenvolvimento de Software, Ciência de Dados e IA. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado e disposto 
-a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HugoBorrego&theme=dark&border_radius=10&count_private=true" alt="GitHub Streak" />
