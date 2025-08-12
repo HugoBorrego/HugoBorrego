@@ -24,13 +24,18 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
 ## Hard Skills
 ### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=py,java,cs,javascript,c,cpp" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,javascript,cs,cpp,c" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" /><br>
 </div>
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
+</div>
+
+### Mobile
+<div>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
 </div>
 
 ### Dados
