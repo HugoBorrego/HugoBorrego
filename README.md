@@ -1,17 +1,12 @@
-<h1 align="center">Olá, meu nome é Hugo</h1>
-
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-
 <div align="center">
- <h3>Atualmente estou no 4° Semestre de Análise e Desenvolvimento de Sistemas na FATEC - Taubaté</h3>
- <p>Tenho interesse em Desenvolvimento de Software, Ciência de Dados e IA. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado e disposto 
-a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.</p>
+ <h3>🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC-Taubaté (4° Semestre)</h3>
+ 
+ 💻 Tenho interesse em <strong>Desenvolvimento de Software</strong>, <strong>Ciência de Dados</strong> e <strong>IA</strong>. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado, proativo e disposto a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.
 </div>
-
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HugoBorrego&theme=dark&border_radius=10&count_private=true" alt="GitHub Streak" />
@@ -30,7 +25,7 @@ a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou 
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </div>
 
 ### Mobile
