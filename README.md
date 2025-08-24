@@ -44,4 +44,7 @@
 </div>
 
 ## Soft Skills
-Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Criatividade | Trabalho em equipe
+<div align="center">
+ Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Criatividade | Trabalho em equipe
+</div>
+
