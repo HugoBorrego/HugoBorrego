@@ -16,34 +16,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoBorrego&layout=compact&theme=dark&border_radius=10&langs_count=8" alt="Top Languages" />
 </div>
 
-## Hard Skills
-### Backend
+### Hard Skills
+#### Backend
 <div>
   <img src="https://skillicons.dev/icons?i=py,java,javascript,cs,cpp,c" /><br>
   <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" /><br>
 </div>
 
-### Frontend
+#### Frontend
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </div>
 
-### Mobile
+#### Mobile
 <div>
   <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
 </div>
 
-### Dados
+#### Dados
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
 </div>
 
-### Ferramentas
+#### Ferramentas
 <div>
   <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" /><br>
 </div>
 
-## Soft Skills
+### Soft Skills
 <div align="center">
  Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Criatividade | Trabalho em equipe
 </div>
