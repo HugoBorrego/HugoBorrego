@@ -40,7 +40,7 @@
 
 #### Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma,git,github" /><br>
 </div>
 
 ### Soft Skills
