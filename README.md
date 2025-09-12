@@ -3,10 +3,13 @@
 </p>
 
 <div align="center">
- <h3>🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC-Taubaté (4° Semestre)</h3>
- 
- 💻 Tenho interesse em <strong>Desenvolvimento de Software</strong>, <strong>Ciência de Dados</strong> e <strong>IA</strong>. Possuo facilidade em comunicação e aprendizagem, também sou criativo, dedicado, proativo e disposto a trabalhar. Estou sempre buscando aprender novas tecnologias. Atualmente estou realizando diversos cursos para aprimorar meus conhecimentos teóricos e estou em busca de um estágio.
+  🚀 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC Taubaté</strong> — 4° Semestre<br>
+  💻 Apaixonado por tecnologia, estou me especializando em <strong>Desenvolvimento Web Full Stack</strong> e <strong>Inteligência Artificial</strong><br>
+  🔍 Em constante evolução, buscando transformar ideias em soluções inovadoras que conectam pessoas e potencializam negócios
 </div>
+
+
+<hr/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HugoBorrego&theme=dark&border_radius=10&count_private=true" alt="GitHub Streak" />
