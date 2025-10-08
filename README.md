@@ -28,12 +28,12 @@
 
 #### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,react,vite,tailwind" />
 </div>
 
 #### Mobile
 <div>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react" /><br>
 </div>
 
 #### Dados
