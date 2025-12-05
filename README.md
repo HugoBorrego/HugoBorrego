@@ -22,13 +22,14 @@
 ### Hard Skills
 #### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=py,java,javascript,cs,cpp,c" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,c" /><br>
   <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" /><br>
 </div>
 
 #### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,typescript,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" /><br>
+ <img src="https://skillicons.dev/icons?i=vite,tailwind,next,bootstrap" /><br>
 </div>
 
 #### Mobile
