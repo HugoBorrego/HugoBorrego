@@ -3,9 +3,8 @@
 </p>
 
 <div align="center">
-  🚀 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC Taubaté</strong> — 4° Semestre<br>
-  💻 Apaixonado por tecnologia, estou me especializando em <strong>Desenvolvimento Web Full Stack</strong> e <strong>Inteligência Artificial</strong><br>
-  🔍 Em constante evolução, buscando transformar ideias em soluções inovadoras que conectam pessoas e potencializam negócios
+  🚀 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC Taubaté</strong> — 5° Semestre<br>
+  💻 Estou me especializando em <strong>Desenvolvimento Web Full Stack</strong> e estudando <strong>Inteligência Artificial</strong><br>
 </div>
 
 
@@ -19,36 +18,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoBorrego&layout=compact&theme=dark&border_radius=10&langs_count=8" alt="Top Languages" />
 </div>
 
-### Hard Skills
 #### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,c" /><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs" /><br>
 </div>
 
 #### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" /><br>
- <img src="https://skillicons.dev/icons?i=vite,tailwind,next,bootstrap" /><br>
-</div>
-
-#### Mobile
-<div>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,bootstrap" /><br>
 </div>
 
 #### Dados
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql" /><br>
 </div>
 
 #### Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma,git,github,postman" /><br>
 </div>
 
-### Soft Skills
-<div align="center">
+#### Soft Skills
+<div>
  Resolução de Problemas | Capacidade de Pensamento Crítico | Produtividade | Adaptabilidade | Criatividade | Trabalho em equipe
 </div>
 
